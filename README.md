@@ -4,14 +4,14 @@
 ## 职业分配
 
 首先，您需要选择在游戏中需要多少种特殊角色（冒名顶替者/中立者/船员）。 只有在游戏中有足够多的船员/冒名顶替者并且在游戏中设置了足够多的角色（即它们设置为 > 0%）时，才会达到您设置的计数。 然后角色分配如下：
-- First all roles that are set to 100% are being assigned to arbitrary players.
-- After that each role that has 10%-90% selected adds 1-9 tickets to a ticket pool (there exists a ticket pool for Crewmates, Neutrals and Impostors). Then the roles will be selected randomly from the pools as long it's possible (until the selected number is reached, until there are no more Crewmates/Impostors or until there are no more tickets). If a role is selected from the pool, obviously all the tickets of that role are being removed.
-- The Mafia, Lovers and Mini are being selected independently (without using the ticket system) according to the spawn chance you selected. After that the Crewmate, Neutral and Impostor roles are selected and assigned in a random order.
+- 首先将所有设置为 100% 的角色分配给任意玩家。
+- 之后，每个选择了 10%-90% 的角色将 1-9 个票添加到票池（存在一个用于船员、中立者和冒名顶替者的票池）。 然后将尽可能从池中随机选择角色（直到达到所选数量，直到没有更多的船员/冒名顶替者或直到没有更多的票）。 如果从池中选择了一个角色，显然该角色的所有票证都将被删除。
+- 黑手党、恋人 和 小孩 将根据您选择的生成机会独立选择（不使用票务系统）。 之后，船员、中立者和冒名顶替者角色被选择并以随机顺序分配。
 
-**Example:**\
-Settings: 2 special Crewmate roles, Snitch: 100%, Hacker: 10%, Tracker: 30%\
-Result: Snitch is assigned, then one role out of the pool [Hacker, Tracker, Tracker, Tracker] is being selected\
-Note: Changing the settings to Hacker: 20%, Tracker: 60% would statistically result in the same outcome .
+**例子:**\
+设置：2 个特殊船员角色，告密者：100%，黑客：10%，追踪者：30%\
+结果：分配了 Snitch，然后选择了池中的一个角色 [Hacker, Tracker, Tracker, Tracker]\
+注意：将设置更改为 Hacker: 20%, Tracker: 60% 在统计上会产生相同的结果 .
 
 
 ## Mafia
