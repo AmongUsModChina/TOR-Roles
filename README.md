@@ -14,15 +14,15 @@
 注意：将设置更改为 Hacker: 20%, Tracker: 60% 在统计上会产生相同的结果 .
 
 
-## Mafia
-### **Team: Impostors**
-The Mafia are a group of three Impostors.\
-The Godfather works like a normal Impostor.\
-The Mafioso is an Impostor who cannot kill until the Godfather is dead.\
-The Janitor is an Impostor who cannot kill, but they can hide dead bodies instead.\
+## 黑手党
+### **阵营： 伪装者**
+黑手党是由三个冒名顶替者组成的团体.\
+教父像普通的冒名顶替者一样工作.\
+小弟是一个冒名顶替者，在教父死之前不能杀人.\
+清洁工是一个不能杀人的冒名顶替者，但他们可以隐藏尸体.\
 \
-**NOTE:**
-- There have to be 3 Impostors activated for the mafia to spawn.
+**注意:**
+- 必须激活 3 个冒名顶替者才能生成黑手党.
 
 ### Game Options
 | Name | Description |
