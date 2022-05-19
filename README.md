@@ -24,31 +24,31 @@
 **注意:**
 - 必须激活 3 个冒名顶替者才能生成黑手党.
 
-### Game Options
-| Name | Description |
+### 游戏设定
+| 名字 | 描述 |
 |----------|:-------------:|
-| Mafia Spawn Chance | -
-| Janitor Cooldown | -
+| 黑手党生成机会 | -
+| 清洁工冷却 | -
 -----------------------
 
-## Morphling
-### **Team: Impostors**
-The Morphling is an Impostor which can additionally scan the appearance of a player. After an arbitrary time they can take on that appearance for 10s.\
+## 化形者
+### **阵营: 伪装者**
+化形者 是一个冒名顶替者，可以额外扫描玩家的外观。 在任意时间后，他们可以保持这种外观 10 秒.\
 \
-**NOTE:**
-- They shrink to the size of the Mini when they copy its look.
-- The Hacker sees the new color on the admin table.
-- The color of the footprints changes accordingly (also the ones that were already on the ground).
-- The other Impostor still sees that they are an Impostor (the name remains red).
-- The shield indicator changes accordingly (the Morphling gains or loses the shield indicator).
-- Tracker and Snitch arrows keep working.
+**注意:**
+- 当他们复制它的外观时，它们会缩小到 Mini 的大小.
+- 黑客在 admin 表上看到了新颜色.
+- 脚印的颜色会相应改变（还有那些已经在地上的）.
+- 另一个冒名顶替者仍然认为他们是冒名顶替者（名称仍为红色）.
+- 护盾指示器会相应变化（化形者获得或失去护盾指示器）.
+- 追踪器和告密者箭头继续工作.
 
-### Game Options
-| Name | Description |
+### 游戏设定
+| 名字 | 描述 |
 |----------|:-------------:|
-| Morphling Spawn Chance | -
-| Morphling Cooldown | -
-| Morph Duration | Time the Morphling stays morphed
+| 化形者生成机会 | -
+| 化形者冷却 | -
+| 化形持续时间 | 化形者保持变形的时间
 -----------------------
 
 ## Camouflager
